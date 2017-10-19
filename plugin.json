@@ -1,0 +1,8 @@
+{
+    "name": "Vibrate",
+    "api": "Plugin.Vibrate",
+    "request": {
+    },
+    "response": {
+    }
+}
