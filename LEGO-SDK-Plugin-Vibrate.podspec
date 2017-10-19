@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/LEGO-SDK/Plugin-Vibrate"
   s.license      = "MIT (example)"
-  s.author             = { "PonyCui"}
+  s.author             = Kopus
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/LEGO-SDK/Plugin-Vibrate.git" }
   s.source_files  = "ios/Source/*.{h,m}"
